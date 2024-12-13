@@ -36,7 +36,7 @@ Alternatively, you can host the project using GitHub Pages. See the [GitHub Page
 ## 👨‍💻 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/html-css-documentation.git
+   git clone https://github.com/<LeandroFRamos>/html-css-documentation.git
    ```
 2. Open `index.html` in your browser.
 
