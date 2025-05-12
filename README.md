@@ -1,64 +1,82 @@
-# HTML and CSS Documentation Project
+# Wine Festival Schedule 🍷
 
-Welcome to the **HTML and CSS Documentation Project**! 🎉 This project serves as a simple and elegant way to document essential HTML tags and their uses. It is a great reference for beginners and enthusiasts who want to brush up on their HTML skills.
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-## 📚 About the Project
-This project showcases a table-based documentation site for HTML tags. It demonstrates:
+## 📌 About the Project
 
-- How to structure content using **HTML tables**.
-- Applying custom styles with **CSS** for a polished look.
-- Highlighting code snippets with a monospace font and custom styling.
+This project is a single-page web application developed to display the schedule for the **Aguillar Family's Annual Wine Festival**. The event schedule is presented in a well-structured HTML table, with simple yet elegant styling for better visualization.
 
-The project is designed to be lightweight and beginner-friendly while adhering to modern web design practices.
+## 🎯 Objective
 
-## 🚀 Features
-- 🖌 **Custom Color Scheme**: A clean and professional design with an accessible palette.
-- 📋 **HTML Table Documentation**: Includes columns for tag names, formatted tags, and descriptions.
-- ✨ **Styled Code Blocks**: Monospace fonts and background highlights for readability.
-- 📱 **Responsive Design**: Looks great on any device.
+The main goal is to demonstrate the use of HTML and CSS to create a clean and organized event schedule. It serves as a foundational project for understanding basic concepts of web development.
 
-## 🛠 Technologies Used
-- **HTML5**
-- **CSS3**
+## 🚀 Technologies Used
 
-## 📂 Project Structure
+* **HTML5**
+* **CSS3** (inline styling)
+
+## 📋 Prerequisites
+
+To view the project locally, you need an up-to-date web browser (Chrome, Firefox, Edge, Safari, etc.).
+
+## 📂 Folder Structure
+
 ```
-html-css-documentation/
-├── index.html  # Main HTML file
-├── styles.css  # Custom CSS file
+WineFestivalSchedule/
+└── index.html
 ```
 
-## 🌟 Preview
-You can preview the project by opening `index.html` in your browser.
+* `index.html`: Contains both the HTML structure and the CSS styling of the project.
 
-Alternatively, you can host the project using GitHub Pages. See the [GitHub Pages Documentation](https://pages.github.com/) for more details.
+## 🔧 How to Run the Project
 
-## 👨‍💻 How to Use
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/<LeandroFRamos>/html-css-documentation.git
+   git clone https://github.com/your-username/WineFestivalSchedule.git
    ```
-2. Open `index.html` in your browser.
 
-## 📖 HTML Tags Documented
-The following tags are included in the documentation:
-- `<h1>`: Defines the largest heading level.
-- `<p>`: Defines a paragraph.
-- `<table>`: Defines a table.
-- `<a>`: Creates hyperlinks.
-- `<img>`: Embeds images.
+2. Navigate to the project directory:
 
-## 🎨 Custom Styles
-- **Tables**: Styled rows with alternating colors and hover effects.
-- **Code Blocks**: Highlighted using a distinctive background and custom font.
-- **Typography**: Clean and professional font choice for readability.
+   ```bash
+   cd WineFestivalSchedule
+   ```
+
+3. Open the `index.html` file in your browser:
+
+   * On Windows:
+
+     ```bash
+     start index.html
+     ```
+   * On macOS:
+
+     ```bash
+     open index.html
+     ```
+   * On Linux:
+
+     ```bash
+     xdg-open index.html
+     ```
 
 ## 🤝 Contributions
-Feel free to fork this repository, make enhancements, and submit pull requests. All contributions are welcome!
+
+Contributions are always welcome! Feel free to open a *Pull Request* or report an issue.
 
 ## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## ✉️ Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+* Email: [lefrancaramos@gmail.com](lefrancaramos@gmail.com)
+* GitHub: [Leandro Ramos](https://github.com/LeandroFRamos)
 
 ---
 
-🌟 Thank you for visiting this repository! Happy coding! ✨
+Enjoy the festival and have an excellent experience! 🍇🍷
